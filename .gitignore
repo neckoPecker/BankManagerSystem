@@ -1,1 +1,5 @@
+# Is only used for my Visual Studio Configuration
 .vs/
+
+# Build is multiplatform, therefore you should build it yourself
+out/
