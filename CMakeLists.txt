@@ -13,7 +13,7 @@ set(
 set(
 	SOURCES
 	"./src/main.c"
-	"./src/header.c" 
+	 
 	)
 
 add_executable(
