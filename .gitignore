@@ -2,4 +2,7 @@
 .vs/
 
 # Build is multiplatform, therefore you should build it yourself
-out/
+build/
+
+# If using Visual Studio, generate a CMakeSettings.json, and set the compiler required
+CMakeSettings.json
